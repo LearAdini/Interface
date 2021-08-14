@@ -1,7 +1,10 @@
-## Lear Adini's GitHub Repositories
+# Lear Adini's Projects
 
 
-#### [1.EntityFramework FluentAPI and DataAnnotations](https://learadini.github.io/EntityFramework-FluentAPI-DataAnnotations/)
+### ****Links:****
+---------------------
+
+#### [1.EntityFramework FluentAPI & DataAnnotations](https://learadini.github.io/EntityFramework-FluentAPI-DataAnnotations/)
 
 #### [2.ADO.Net SQL Connection](https://learadini.github.io/ActiveX-Data-Objects-SQL/)
 
