@@ -1,7 +1,7 @@
 
 
 
- ## ***Links***
+## **Links**
 
 #### [1. EntityFramework - FluentAPI & DataAnnotations (WinForm)](https://learadini.github.io/EntityFramework-FluentAPI-DataAnnotations/)
 #### [2. ADO.Net SQL Connection (WinForm)](https://learadini.github.io/ActiveX-Data-Objects-SQL/)
