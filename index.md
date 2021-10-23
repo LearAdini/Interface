@@ -1,6 +1,7 @@
 
 
-**Links**
+
+***Links***
 
 #### [1. EntityFramework - FluentAPI & DataAnnotations (WinForm)](https://learadini.github.io/EntityFramework-FluentAPI-DataAnnotations/)
 #### [2. ADO.Net SQL Connection (WinForm)](https://learadini.github.io/ActiveX-Data-Objects-SQL/)
@@ -12,7 +13,7 @@
 #### [7. Bank ATM Example (Console)](https://learadini.github.io/ATM-PROJECT/)
 
 
-**Homework Projects**
+***Homework Projects***
 
 #### [Parallel Loops](https://github.com/LearAdini/ParallelLoops)
 #### [Task Coordination](https://github.com/LearAdini/TaskCoordination)
