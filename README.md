@@ -1,7 +1,4 @@
 
-
-# My GitHub Repositories
-
 ### ***Projects***
 #### [1. Midterm(2021) Project](https://github.com/LearAdini/MiddleYear-Project/blob/main/README.md)
 #### [2. EntityFramework - FluentAPI & DataAnnotations (WinForm)](https://learadini.github.io/EntityFramework-FluentAPI-DataAnnotations/)
