@@ -15,8 +15,8 @@
 
 
 **Homework Projects**
-
-#### [Parallel Loops](https://github.com/LearAdini/ParallelLoops)
-#### [Task Coordination](https://github.com/LearAdini/TaskCoordination)
-#### [Parallel LINQ Calculations](https://github.com/LearAdini/ParallelLinqCalculations)
-#### [Parallel LINQ Calculations](https://github.com/LearAdini/ParallelLinqCalculations)
+#### [JavaScript - Calculate BinaryGap & Loops](https://github.com/LearAdini/JavaScript-Loops-and-BinaryGap)
+#### [C# - Parallel Loops](https://github.com/LearAdini/ParallelLoops)
+#### [C# - Task Coordination](https://github.com/LearAdini/TaskCoordination)
+#### [C# - Parallel LINQ Calculations](https://github.com/LearAdini/ParallelLinqCalculations)
+#### [C# - Parallel LINQ Calculations](https://github.com/LearAdini/ParallelLinqCalculations)
