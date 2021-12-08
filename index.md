@@ -6,7 +6,7 @@
 #### [4. MongoDB C#/.Net (WinForm)](https://BeatrixKiddo1.github.io/MongoDB-C-.NET-Driver/)
 #### [5. Redis & MongoDB C#/.Net (Console)](https://BeatrixKiddo1.github.io/MongoDB-Redis-.NET/)
 #### [6. Create Files & Folders Program (Console)](https://BeatrixKiddo1.github.io/Create-Files-and-Folders/)
-#### [7. Singleton](https://BeatrixKiddo1.com/LearAdini/Singleton/)
+#### [7. Singleton](https://BeatrixKiddo1.com/BeatrixKiddo1/Singleton/)
 #### [8. MP4 Player Program (WinForm)](https://BeatrixKiddo1.github.io/WinForm-Media-Player/)
 #### [9. Bank ATM Example (Console)](https://BeatrixKiddo1.github.io/ATM-PROJECT/)
 
